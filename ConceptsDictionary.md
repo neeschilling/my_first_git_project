@@ -9,4 +9,10 @@
 ## Conceptual areas
 
 1. Developing area: My folder where my project is developed.
-2. git local repository: keeps your version, also create points in time (timeline) lol
+2. git local repository: keeps your version, also create points in time (timeline)
+
+## Git commit editor
+
+1. Vi
+2. Nano
+3. VSCode
