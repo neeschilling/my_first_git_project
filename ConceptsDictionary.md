@@ -9,7 +9,7 @@
 ## Conceptual areas
 
 1. Developing area: My folder where my project is developed.
-2. Staging area: organize the snapshot, useful with multiple files
+2. Staging area: organize the snapshot, useful with multiple files 
 3. git local repository: keeps your version, also create points in time (timeline)
 
 ## Git commit editor
