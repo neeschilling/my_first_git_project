@@ -9,4 +9,4 @@
 ## Conceptual areas
 
 1. Developing area: My folder where my project is developed.
-2. git local repository: keeps your version, also create points in time (timeline)
+2. git local repository: keeps your version, also create points in time (timeline) lol
