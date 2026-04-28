@@ -1,1 +1,1 @@
-# my_first_git_project
+# Concepts & commonly used code to use git and Github 
