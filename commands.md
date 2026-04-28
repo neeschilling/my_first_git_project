@@ -78,6 +78,15 @@ Check local branches
 
 `git branch -a`
 
+## Merging
+
+Merges the current branch to branch you specify
+
+`git merge <branch_name>`
+
+Remove branch
+
+`git branch -d <branch_name>`
 
 
 
