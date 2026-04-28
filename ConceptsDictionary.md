@@ -17,3 +17,9 @@
 1. Vi
 2. Nano
 3. VSCode
+
+## Solving conflicts
+
+1. git pull
+2. git config pull.rebase false
+3. look at changes 
