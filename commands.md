@@ -88,5 +88,21 @@ Remove branch
 
 `git branch -d <branch_name>`
 
+## Tagging 
+
+Give tag to current head
+
+`git tag <name>`
+
+Give list off all tags
+
+`git tag -l`
+
+`git tag --list`
+
+Give name to specific commit ID
+
+`git tag <name> <commitID>`
+
 
 
