@@ -17,3 +17,10 @@
 1. Vi
 2. Nano
 3. VSCode
+
+## Branching & Checkout
+
+Branches: Makes a new version of the repository where you can change code etc without changing the main
+
+Checkout: Brings you from one branch to another 
+
