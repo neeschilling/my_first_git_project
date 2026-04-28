@@ -59,7 +59,9 @@ Rewrite the last commit message
 
 `git commit -amend`
 
+Rename a branch When inside of the branch
 
+`git branch -m <New_name>`
 
 
 
