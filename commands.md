@@ -59,6 +59,15 @@ Rewrite the last commit message
 
 `git commit -amend`
 
+## Branching
+
+Create a new branch
+`git branch <branch_name>`
+
+switch between branches
+`git checkout <branch_name>`
+
+
 
 
 
