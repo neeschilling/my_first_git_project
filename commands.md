@@ -60,6 +60,24 @@ Rewrite the last commit message
 `git commit -amend`
 
 
+## Branches
+
+create new branch
+
+`git branch <branch_name>`
+
+change branch 
+
+`git checkout <branch_name>`
+
+## New branches and collaborations
+
+Check local branches 
+
+`git branch --list`
+
+`git branch -a`
+
 
 
 
